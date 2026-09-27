@@ -1,5 +1,8 @@
 # AmazonML2026 — Business Entity Resolution Challenge
 
+> **Ownership handoff:** This repository has been handed off to a new team, who now own and
+> maintain it going forward.
+
 Solution for the Amazon ML Challenge 2026 (Business Entity Resolution). Given business records
 from three noisy, independent sources, find every Source-2/3 record that matches each Source-1
 entity, scored on macro F0.5.
